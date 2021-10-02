@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1604492089 source:c:\users\furkan\desktop\prolab1\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+
+1604492089 source:c:\users\furkan\desktop\sunum icin kullan\prolab1\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+
